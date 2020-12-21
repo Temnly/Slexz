@@ -4,8 +4,8 @@
 			 m3gafooorce@gmail.com				             
 														                               
 		   This programm is distributed to be free. If you    
-       want to include it to other Software, please              
-       contact the author.					                       
+		   want to include it to other Software, please              
+		   contact the author.					                       
 														                               
 														                               
 
