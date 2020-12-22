@@ -1,8 +1,7 @@
 while True:
-    # Take input from the user
+
     choice = input("Slexz -> ")
 
-    # Check if choice is one of the four options
     if choice in ('version', 'help', 'easteregg', 'pingit', 'clearit', 'usage', 'exit'):
 
         if choice == 'version':
