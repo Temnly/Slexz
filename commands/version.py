@@ -1,0 +1,11 @@
+def general():
+            print(" ")
+            print(" ")
+            print(" ")
+            print("--------------------")
+            print("       Slexz")
+            print("    Version 1.0")
+            print("--------------------")
+            print(" ")
+            print(" ")
+            print(" ")
