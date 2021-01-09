@@ -1,2 +1,3 @@
 import os
-os.system("shutdown/s")
+def general():
+ os.system("shutdown /s")
