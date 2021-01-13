@@ -18,5 +18,36 @@ Right now, there are not that much commands.
 But I'm working on it! And maybe the Open 
 Source Community can help me!
 
+Requirments
+--------------
+
+<ul>
+  <li> Python 3.6 and above </li>
+  <li> Git</li>
+</ul>
+
+Usage
+-------
+
+Fire up your terminal and navigate to your desired directory
+and run the following commands.
+
+```
+https://github.com/Temnly/Slexz.git
+```
+
+```
+cd slexz
+```
+
+```
+pip install -r requirments.txt
+```
+```
+python slexz.py
+```
 
 
+Now you can run the multiple commands present in this module
+
+#### Happy Hacking!!
