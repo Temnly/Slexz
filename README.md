@@ -23,8 +23,7 @@ Requirments
 
 <ul>
   <li> Python 3.6 and above </li>
-  <li> A windows PC </li>
-  <li> Git for Windows </li>
+  <li> Git</li>
 </ul>
 
 Usage
