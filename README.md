@@ -18,5 +18,16 @@ Right now, there are not that much commands.
 But I'm working on it! And maybe the Open 
 Source Community can help me!
 
+Requirments
+--------------
+<ul>
+  <li> Python 3.6 and above </li>
+  <li> A windows PC </li>
+  <li> Git for Windows </li>
 
+
+Usage
+----------
+Fire up your terminal and navigate to your desired directory
+and run the following commands.
 
