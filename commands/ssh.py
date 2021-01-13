@@ -1,16 +1,17 @@
 import paramiko 
 
-#input
-host = input("Hostname -> ")
+def general():
+ #input
+ host = input("Hostname -> ")
 
-port = input("Port -> ")
+ port = input("Port -> ")
 
-username = input("Username -> ")
+ username = input("Username -> ")
 
-password = input("Password -> ")
+ password = input("Password -> ")
 
-while True:
- command = input("SSH -> ")
+ while True:
+  command = input("SSH -> ")
 
 
  ssh = paramiko.SSHClient()
@@ -25,5 +26,3 @@ while True:
  lines = stdout.readlines()
 
  print(lines)
-
-
