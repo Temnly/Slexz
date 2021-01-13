@@ -20,14 +20,35 @@ Source Community can help me!
 
 Requirments
 --------------
+
 <ul>
   <li> Python 3.6 and above </li>
   <li> A windows PC </li>
   <li> Git for Windows </li>
-
+</ul>
 
 Usage
-----------
+-------
+
 Fire up your terminal and navigate to your desired directory
 and run the following commands.
 
+```
+https://github.com/Temnly/Slexz.git
+```
+
+```
+cd slexz
+```
+
+```
+pip install -r requirments.txt
+```
+```
+python slexz.py
+```
+
+
+Now you can run the multiple commands present in this module
+
+#### Happy Hacking!!
