@@ -1,3 +1,4 @@
 ply
 psutil
 requests
+paramiko
