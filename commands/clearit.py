@@ -16,4 +16,3 @@ def general():
     os.system('cls')
   else:
     os.system('clear')
-  # os.system('clear')
