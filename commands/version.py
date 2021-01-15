@@ -4,7 +4,7 @@ def general():
             print(" ")
             print("--------------------")
             print("       Slexz")
-            print("    Version 1.1")
+            print("    Version 1.2.0 ")
             print("--------------------")
             print(" ")
             print(" ")
