@@ -111,5 +111,3 @@ def general():
     print(f"Total Bytes Sent: {get_size(net_io.bytes_sent)}")
     print(f"Total Bytes Received: {get_size(net_io.bytes_recv)}")
 
-
-general()
