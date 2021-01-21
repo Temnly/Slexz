@@ -1,0 +1,3 @@
+If you are a Linux user you have to install tkinter via the command line
+
+sudo apt-get install python3-tk
