@@ -14,15 +14,18 @@ y_cordinate = int((screen_height/2) - (window_height/2))
 
 root.geometry("{}x{}+{}+{}".format(window_width, window_height, x_cordinate, y_cordinate))
 
-l = Label(root,text="About")
+l = Label(root,text="About", font="Arial 50")
 
 l.pack()
 
-l1 = Label(root,text="Version")
+space = Label(root,text=" ", font="Arial 18")
+space.pack()
+
+l1 = Label(root,text="Version", font="Arial 25")
 
 l1.pack()
 
-l2 = Label(root,text="1.2")
+l2 = Label(root,text="1.2", font="Arial 17")
 
 l2.pack()
 
