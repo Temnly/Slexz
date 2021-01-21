@@ -2,3 +2,5 @@ ply
 psutil
 requests
 paramiko
+tkinter
+tkhtmlview
