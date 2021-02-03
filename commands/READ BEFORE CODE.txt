@@ -1,0 +1,4 @@
+This are just the skripts, for the shell.
+
+
+If you change a script file, nothing happens, if you want to change or add something, look under slexz.pyw!!!
