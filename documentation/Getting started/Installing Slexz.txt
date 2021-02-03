@@ -1,0 +1,16 @@
+Hey!
+
+In this Documentation we show you how to install Slexz. It's pretty easy so don't worry!
+First of all, you should install the latest version of Python, you can download it at the official Python Website.
+We recommend you to use the newest Version of Python (3.6 or higher)
+If not, maybe some errors can occure. We will try to update our documentation every few months!
+
+If you need help in installing Python, you should check out some other Websites or Videos, because we don't show you how to install
+Python.
+
+If you downloaded Python 3.6 or higher, you have to download the Zip File from Github.
+After this you unzip it, and then you navigate to slexz-main
+Now some soloution for diffrent Plattforms:
+
+
+More on running Slexz in the next part -> How to run Slexz

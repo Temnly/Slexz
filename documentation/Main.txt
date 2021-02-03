@@ -1,0 +1,30 @@
+
+
+!!!!!!!! <OLD PLEASE WAIT FOR AN UPDATE OF THE DOCUMENTATION> !!!!!!!!
+
+
+First of all, you have to install some Modules.
+You can install them with typing in the terminal
+
+pip install -r requirments.txt
+
+we always keep the requirments.txt up to date, 
+for you so you can install the requirements really easy.
+Because we believe, that the users of Slexz don't want to waste to much time on
+finding out and installing the missing requirements.
+
+We want Slexz to be a friendly Shell (or Shell Addon) that everyone can use.
+
+
+We believe in Open Source and not making Profit of our Products.
+
+If you use Slexz or Contribute to it, it makes us very happy, because we can see that the hours we put in pays off.
+
+
+Ok, that was the Main.txt File. It will introduce you to Slexz.
+You can check out the other files, where everything is described. (If not you can write something and contribute or you can contact us to add something)
+
+We will add some new Files every few Months.
+
+So if you are interested in the latest News and Documentation about Slexz, make sure to keep updated right here! :)
+

@@ -1,0 +1,14 @@
+First of all, if you didn't read the Main.txt, you should definitely do it! You can find it under the main Directory of the Documentations Folder.
+
+Soon this will be available on a Website too, but for now, we solve this problem like this.
+
+
+Ok, let's start!
+
+Here is a Index of the getting started folder:
+
+1. Installing Slexz -> Showing you how to install Slexz
+
+2. How to run Slexz -> Helps you run Slexz
+
+3. What can I do if errors occure? -> How to solve basic errors

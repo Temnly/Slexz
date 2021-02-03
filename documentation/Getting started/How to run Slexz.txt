@@ -1,0 +1,30 @@
+In this part of the documentation, we show you how to run Slexz.
+
+If you downloaded Python 3.6 or higher, you have to download the Zip File from Github.
+After this you unzip it, and then you navigate to slexz-main
+Now some soloution for diffrent Plattforms:
+
+
+On LINUX you do it like this:
+
+CD to your Directory where slexz-main belongs.
+
+An example: cd /path/to/your/slex-main/
+
+Then you run it like this:
+
+Python3 slexz.py
+
+
+Then it should work.
+
+
+
+For every other OS:
+
+Just go to the slexz-main folder, and double click on slexz.py this should work.
+
+
+
+If you got errors, you can add an Issue on Github or Contact us!
+

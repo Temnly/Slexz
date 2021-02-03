@@ -1,0 +1,24 @@
+In this part, we show you how to write your own commands.
+First of all, you need to be experienced in Python.
+
+It's pretty simple, you just need to import all your modules that you need for your command.
+
+Then you do this:
+ 
+write a def general on top, like this:
+
+
+ def general():
+  #here comes your code
+
+
+
+This is everything under #here comes your code, you can write your code and you are ready to go.
+
+NOTICE: Don't use a loop in a command, because then it won't stop.
+
+
+by the way: if you are interested in commiting the command to slexz, it would be really nice :)
+
+Have a nice day!
+

@@ -1,0 +1,14 @@
+Welcome! This is the final part of the "Getting Started" Folder.
+
+In this part, we show you want you can do when you got some errors.
+
+
+
+1. You can write a issue under the repository
+
+2. If you found a soloution by yourself, you can make a pull request.
+
+3. The last step, is to contact the author. But please only contact him via email if your issue request don't get answered.
+
+
+You can find the email under the license.txt
