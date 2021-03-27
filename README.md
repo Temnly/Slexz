@@ -44,7 +44,7 @@ cd slexz
 pip install -r requirments.txt
 ```
 ```
-python slexz.py
+python slexz.pyw
 ```
 
 
